@@ -19,7 +19,7 @@ body {
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-image: linear-gradient(to top, #ffffff, #eddaf6, #eeafdc, #f380af, #ef4d70, #ef4d70, #ef4d70, #ef4d70, #f380af, #eeafdc, #eddaf6, #ffffff);
 }
 p:last-child {
   margin-bottom: 0;
